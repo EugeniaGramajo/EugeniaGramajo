@@ -1,7 +1,6 @@
 <h1>Hi! I'm Eugenia!<h1>
-  ## 🍂 **Languages & Tools**
 
-## 🍂 **Languages & Tools**
+## **Languages & Tools**
 
 <table align="center">
   <tr>
