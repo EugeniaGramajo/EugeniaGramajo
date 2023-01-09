@@ -1,6 +1,8 @@
 <h1>Hi! I'm Eugenia!<h1>
   ## 🍂 **Languages & Tools**
 
+## 🍂 **Languages & Tools**
+
 <table align="center">
   <tr>
     <td align="center" width="100">
@@ -21,26 +23,13 @@
       </a>
       <br>JavaScript
     </td>
-    <td align="center"  width="100">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="50" height="50" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-    <td align="center"  width="100">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" alt="Tailwind CSS" />
-      </a>
-      <br>Tailwind CSS
-    </td>
-
-  </tr>
-    <td align="center" width="100">
+      <td align="center" width="100">
       <a href="#">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50" alt="React" />
       </a>
       <br>React
     </td>
+  </tr>
     <td align="center" width="100">
       <a href="#">
         <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" width="50" height="50" alt="Redux" />
