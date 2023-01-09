@@ -1,7 +1,7 @@
-<h1>Hi! I'm Eugenia!<h1>
+<h1>Hi! I'm Eugenia!</h1>
   
   <h2>About me<h2>
-    As a current student at the soyHenry bootcamp, I am a highly motivated and skilled junior web developer with a strong foundation in technologies such as JavaScript, HTML, CSS, React, Redux, NodeJS, Express, SQL, and PostgreSQL. I am passionate about building modern and responsive web applications that provide a seamless user experience. In my studies and personal projects, I have demonstrated the ability to learn quickly and work collaboratively in a team environment. I am excited to apply my skills and continue learning as I pursue opportunities in the tech industry.
+    <p>As a current student at the soyHenry bootcamp, I am a highly motivated and skilled junior web developer with a strong foundation in technologies such as JavaScript, HTML, CSS, React, Redux, NodeJS, Express, SQL, and PostgreSQL. I am passionate about building modern and responsive web applications that provide a seamless user experience. In my studies and personal projects, I have demonstrated the ability to learn quickly and work collaboratively in a team environment. I am excited to apply my skills and continue learning as I pursue opportunities in the tech industry.</p>
 
 ## **Languages & Tools**
 
